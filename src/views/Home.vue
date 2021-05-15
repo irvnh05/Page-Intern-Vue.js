@@ -27,11 +27,12 @@
 import NavbarIntern from '@/components/NavbarIntern.vue'
 import AboutIntern from '@/components/AboutIntern.vue'
 
+
 export default {
   name: 'Home',
   components: {
     NavbarIntern,
-    AboutIntern
+    AboutIntern,
   }
 }
 </script>
@@ -1279,6 +1280,7 @@ export default {
   .mb-8 {
     margin-bottom: 2rem
   }
+  
 
   .mt-10 {
     margin-top: 2.5rem
@@ -1290,6 +1292,10 @@ export default {
 
   .ml-10 {
     margin-left: 2.5rem
+  }
+
+  .ml-11 {
+    margin-left: 9.5rem
   }
 
   .mt-12 {
@@ -1498,6 +1504,11 @@ export default {
   .px-4 {
     padding-left: 1rem;
     padding-right: 1rem
+  }
+
+    .px-8 {
+    padding-left: 5;
+    padding-right: 5rem
   }
 
   .py-5 {
@@ -2023,6 +2034,9 @@ export default {
     white-space: nowrap
   }
 
+.w-1 {
+    width: .60rem
+  }
   .w-3 {
     width: .75rem
   }
@@ -2145,6 +2159,12 @@ export default {
     gap: 1rem
   }
 
+  .gap-5 {
+    grid-gap: 1.5rem;
+    gap: 1.5rem
+  }
+
+
   .grid-cols-1 {
     grid-template-columns: repeat(1, minmax(0, 1fr))
   }
@@ -2160,6 +2180,10 @@ export default {
   .grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr))
   }
+
+  .grid-cols-5 {
+      grid-template-columns: repeat(5, minmax(0, 1fr))
+    }
 
   .grid-cols-6 {
     grid-template-columns: repeat(6, minmax(0, 1fr))
@@ -3966,6 +3990,10 @@ export default {
     display: block
   }
 
+.splide-cs{
+  
+}
+
   .slick-slider .slick-slide {
     display: none !important
   }
@@ -4540,7 +4568,9 @@ export default {
     .md\:line-through {
       text-decoration: line-through
     }
-
+   .md\:w-6 {
+      width: 1.5rem
+    }
     .md\:w-12 {
       width: 3rem
     }
@@ -4796,5 +4826,15 @@ export default {
     bottom: 20%;
 }
 
+.fb-icon{
+position: absolute;
+
+}
+
+.wh{
+  width: 100%;
+  height: 100%;
+
+}
 
 </style>

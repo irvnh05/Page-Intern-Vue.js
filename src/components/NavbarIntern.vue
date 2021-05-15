@@ -309,8 +309,13 @@
                         class="flex flex-wrap p-5"
                         
                       >
-                        <div data-v-2311e488="" >
-                          <div
+                      <!--  -->
+
+ 
+ <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner ">
+    <div class="carousel-item active">
+                                <div
                             data-v-2311e488=""
                             class="bg-cover bg-no-repeat bg-center w-full rounded-lg"
                             
@@ -380,10 +385,169 @@
                               </div>
                             </div>
                           </div>
+     </div>
+       <!-- slide 2 -->
+    <div class="carousel-item">
+                             <div
+                            data-v-2311e488=""
+                            class="bg-cover bg-no-repeat bg-center w-full rounded-lg"
+                            
+                            style="
+                              background-image: url('https://smartcity.bandung.go.id//internship/cover.png');
+                            "
+                          >
+                            <div
+                              data-v-2311e488=""
+                              class="px-4 mx-auto text-white text-3xl bg-opacity-50 bg-blue-500 h-full rounded-lg"
+                              
+                            >
+                              <div
+                                data-v-2311e488=""
+                                class="flex flex-col-reverse p-10 md:flex-row md:mt-10"
+                                
+                              >
+                                <div
+                                  data-v-2311e488=""
+                                  class="w-full w-5/6"
+                                  
+                                >
+                                  <div
+                                    data-v-2311e488=""
+                                    class="text-justify text-lg text-white"
+                                    
+                                  >
+                                    <div
+                                      data-v-2311e488=""
+                                      class="text-3xl"
+                                      
+                                    >
+                                      Kenapa Bandung
+                                    </div>
+                                    <div
+                                      data-v-2311e488=""
+                                      class="text-3xl mb-10"
+                                      
+                                    >
+                                      INTERNational Hadir?
+                                    </div>
+                                    Dengan berdirinya Bandung INTERNational,
+                                    Dinas Komunikasi dan Informatika Kota
+                                    Bandung berharap dapat mewadahi kreatifitas,
+                                    inovasi dan memaksimalkan waktu luang yang
+                                    Commanders miliki disaat pandemi ini melalui
+                                    aktivitas yang lebih positif, sehingga
+                                    Commanders disini juga dapat turut menjadi
+                                    bagian dari perkembangan pembagunan Kota
+                                    Bandung.
+                                  </div>
+                                </div>
+                                <div
+                                  data-v-2311e488=""
+                                  class="my-10 md:my-0 md:w-1/2"
+                                  
+                                >
+                                  <div data-v-2311e488="" >
+                                    <img
+                                      data-v-2311e488=""
+                                      class="object-center object-scale-down mx-auto md:h-auto h-40 align-middle lazyLoad isLoaded"
+                                      src="https://smartcity.bandung.go.id//internship/logo.png"
+                                      
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+<!-- slie 3 -->
+    </div>
+    <div class="carousel-item">
+                              <div
+                            data-v-2311e488=""
+                            class="bg-cover bg-no-repeat bg-center w-full rounded-lg"
+                            
+                            style="
+                              background-image: url('https://smartcity.bandung.go.id//internship/cover.png');
+                            "
+                          >
+                            <div
+                              data-v-2311e488=""
+                              class="px-4 mx-auto text-white text-3xl bg-opacity-50 bg-blue-500 h-full rounded-lg"
+                              
+                            >
+                              <div
+                                data-v-2311e488=""
+                                class="flex flex-col-reverse p-10 md:flex-row md:mt-10"
+                                
+                              >
+                                <div
+                                  data-v-2311e488=""
+                                  class="w-full w-5/6"
+                                  
+                                >
+                                  <div
+                                    data-v-2311e488=""
+                                    class="text-justify text-lg text-white"
+                                    
+                                  >
+                                    <div
+                                      data-v-2311e488=""
+                                      class="text-3xl"
+                                      
+                                    >
+                                      Kenapa Bandung
+                                    </div>
+                                    <div
+                                      data-v-2311e488=""
+                                      class="text-3xl mb-10"
+                                      
+                                    >
+                                      INTERNational Hadir?
+                                    </div>
+                                    Dengan berdirinya Bandung INTERNational,
+                                    Dinas Komunikasi dan Informatika Kota
+                                    Bandung berharap dapat mewadahi kreatifitas,
+                                    inovasi dan memaksimalkan waktu luang yang
+                                    Commanders miliki disaat pandemi ini melalui
+                                    aktivitas yang lebih positif, sehingga
+                                    Commanders disini juga dapat turut menjadi
+                                    bagian dari perkembangan pembagunan Kota
+                                    Bandung.
+                                  </div>
+                                </div>
+                                <div
+                                  data-v-2311e488=""
+                                  class="my-10 md:my-0 md:w-1/2"
+                                  
+                                >
+                                  <div data-v-2311e488="" >
+                                    <img
+                                      data-v-2311e488=""
+                                      class="object-center object-scale-down mx-auto md:h-auto h-40 align-middle lazyLoad isLoaded"
+                                      src="https://smartcity.bandung.go.id//internship/logo.png"
+                                      
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+                     
+                        <!--  logo-logo-->
                           <div
                             data-v-2311e488=""
-                            class="grid grid-cols-4 gap-4 w-4/6 mx-auto rounded-2xl bg-white shadow-2xl px-10 py-4 m-top-4"
-                            
+                            class=" grid grid-cols-4 gap-4 w-4/6 mx-auto rounded-2xl bg-white shadow-2xl px-10 py-4 m-top-4"
+                            style="z-index:1"
                           >
                             <div
                               data-v-2311e488=""
@@ -434,7 +598,7 @@
                               />
                             </div>
                           </div>
-                        </div>
+                        <!--  -->
                         <div
                           data-v-2311e488=""
                           class="w-full py-20"
@@ -597,14 +761,17 @@
                       >
                         Our Commanders
                       </div>
-                      <div
+                      <!-- commanders -->
+
+                      <div 
                         data-v-2311e488=""
                         class="grid md:grid-cols-5 grid-cols-2 gap-4 justify-items-center command-color"
                         
                       >
+                        
                         <div
                           data-v-2311e488=""
-                          class="grid content-center items-center justify-center p-4"
+                          class=" grid content-center items-center justify-center p-4"
                           
                         >
                           <div
@@ -638,10 +805,11 @@
                               class="flex justify-between"
                               
                             >
-                            
+                              
                             </div>
                           </div>
                         </div>
+                    
                         <div
                           data-v-2311e488=""
                           class="grid content-center items-center justify-center p-4"
@@ -682,6 +850,7 @@
                             </div>
                           </div>
                         </div>
+
                         <div
                           data-v-2311e488=""
                           class="grid content-center items-center justify-center p-4"
@@ -1000,6 +1169,9 @@
                             </div>
                           </div>
                         </div>
+                        <!-- aul -->
+                        <splide :options="options" class="#">
+    <splide-slide >
                         <div
                           data-v-2311e488=""
                           class="grid content-center items-center justify-center p-4"
@@ -1038,6 +1210,50 @@
                             </div>
                           </div>
                         </div>
+                      </splide-slide>
+     <!-- slide 2 -->
+     <splide-slide>
+ <div
+                          data-v-2311e488=""
+                          class="grid content-center items-center justify-center p-4"
+                          
+                        >
+                          <div
+                            data-v-2311e488=""
+                            class="box-content h-32 w-32 md:w-full p-0 border-0 shadow-inner rounded-lg"
+                            
+                            style="background-color: rgba(156, 7, 79, 0.1)"
+                          >
+                            <img
+                              data-v-2311e488=""
+                              class="object-bottom mx-auto h-28 w-32 aulia md:w-full lazyLoad isLoaded"
+                              src="https://smartcity.bandung.go.id//internship/commandor/aulia.png"
+                              
+                            />
+                          </div>
+                          <div data-v-2311e488="" >
+                            <div data-v-2311e488="" v="" >
+                              <div >Aulia </div>
+                              <div >Hidayat</div>
+                            </div>
+                            <small
+                              data-v-2311e488=""
+                              class="text-gray-500"
+                              
+                              >Data </small
+                            >
+                            <div
+                              data-v-2311e488=""
+                              class="flex justify-between"
+                              
+                            >
+                            
+                            </div>
+                          </div>
+                        </div>
+                         </splide-slide>
+     </splide>
+       <!-- salsa -->
                         <div
                           data-v-2311e488=""
                           class="grid content-center items-center justify-center p-4"
@@ -1076,8 +1292,14 @@
                             </div>
                           </div>
                         </div>
-                         <div
-                          data-v-2311e488=""
+                    
+ 
+                 
+       <!-- pras -->
+  <splide :options="options" class="#">
+    <splide-slide >
+                         <div 
+                          data-v-2311e488="" 
                           class="grid content-center items-center justify-center p-4"
                           
                         >
@@ -1103,7 +1325,7 @@
                               data-v-2311e488=""
                               class="text-gray-500 pre" 
                               
-                              >Multimedia Production</small
+                              >Multimedia & Production</small
                             >
                             <div
                               data-v-2311e488=""
@@ -1111,10 +1333,58 @@
                               
                             >
                             
+  
+                            
+                              
                             </div>
                           </div>
                         </div>
-                                           
+                         </splide-slide>
+     <!-- slide 2 -->
+     <splide-slide>
+                         <div 
+                          data-v-2311e488="" 
+                          class="grid content-center items-center justify-center p-4"
+                          
+                        >
+                          <div
+                            data-v-2311e488=""
+                            class="box-content h-32 w-32 md:w-full p-0 border-0 shadow-inner rounded-lg"
+                            
+                            style="background-color: rgba(0, 136, 207, 0.1)"
+                          >
+                            <img
+                              data-v-2311e488=""
+                              class=" object-bottom mx-auto h-28 w-32 md:w-full pras lazyLoad isLoaded"
+                              src="https://smartcity.bandung.go.id//internship/commandor/pras.png"
+                              
+                            />
+                          </div>
+                          <div data-v-2311e488="" >
+                            <div data-v-2311e488="" v="" >
+                              <div > Rayi</div>
+                              <div >Anggoro</div>
+                            </div>
+                            <small
+                              data-v-2311e488=""
+                              class="text-gray-500 pre" 
+                              
+                              >Multimedia & Production</small
+                            >
+                            <div
+                              data-v-2311e488=""
+                              class="flex justify-between"
+                              
+                            >
+                            
+  
+                            
+                              
+                            </div>
+                          </div>
+                        </div>
+    </splide-slide>
+     </splide>
                       </div>
                     </div>
                     <div
@@ -1152,7 +1422,7 @@
                               />
                               <div
                                 data-v-2311e488=""
-                                class="text-3xl py-2"
+                                class="text-3xl py-2 mx-auto"
                                 
                               >
                                 Hubungi Kami
@@ -1177,12 +1447,21 @@
                               >
                                 Copyright © 2021 BANDUNG INTERNATIONAL
                               </div>
-                              <img
+                              <div class="w-full md:w-2/3 grid grid-cols-6 mx-auto pb-4 gap-4 px-10  lazyLoad isLoaded">
+                             <a href="https://www.instagram.com/bandung.go.id/"><img src="../assets/ig.png" class=" h-8 "></a>
+                                <a href="https://www.youtube.com/channel/UCz6SYjH--cfe20eMFIuR6VA"><img src="../assets/yt.png" class=" h-8"></a>
+                                   <a href="https://twitter.com/bandung_goid"><img src="../assets/twitter.png" class=" h-8"></a>
+                                      <a href="https://open.spotify.com/show/4HWw1E1N71b8Yu0CuNMUzo"><img src="../assets/spotify.png" class=" h-8"></a>
+                                         <a href="https://www.tiktok.com/@bandung.go.id"><img src="../assets/tiktok.png" class=" h-8"></a>
+                                             <a href="https://www.facebook.com/bandung.go.id"><img src="../assets/fb.png" class=" h-8"></a>
+                              </div>
+                              <!-- <img
                                 data-v-2311e488=""
                                 class="object-bottom mx-auto pb-4 lazyLoad isLoaded"
                                 src="https://smartcity.bandung.go.id//internship/social.png"
                                 
-                              />
+                              /> -->
+
                             </div>
                           </div>
                         </div>
@@ -1250,7 +1529,6 @@
                       </div>
                       <div
                         class="w-full flex flex-row items-center justify-end md:justify-start md:w-1/3 pl-1"
-                        
                       >
                         <a
                           href="/about/internship"
@@ -1299,6 +1577,7 @@
             </div>
           </div>
         </div>
+         
         <!-- carousel --><carouselintern
         ></carouselintern
         ><!-- about -->
@@ -1315,19 +1594,51 @@
         ></footerintern>
       </div>
     </div>
+
     <!-- built files will be auto injected -->
     <!-- <script type="text/javascript" src="/js/chunk-vendors.js"></script>
     <script type="text/javascript" src="/js/app.js"></script> -->
   </body>
 </template>
 
+
 <script>
+import '@splidejs/splide/dist/css/themes/splide-default.min.css';
+import { Splide, SplideSlide } from '@splidejs/vue-splide';
+
 export default {
+ data() {
+      return {
+        options: {
+          rewind : true,
+          width  : 500,
+          gap    : '1rem',
+          autoplay : true,
+          speed: 500,
+          arrows: false,
+          initialSlide: 3,
+          infinite: false,
+          adaptiveHeight: true,
+          // arrow:mounted,
+        },
+      };
+    },
+
   name: "NavbarIntern",
+  components: {
+    Splide,
+    SplideSlide,
+  }
 };
+
+ 
+
 </script>
 
-<style scoped>
+<style  scoped>
+
+
+
 button sign up
 .text-white {
   --text-opacity: 1;
