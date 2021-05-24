@@ -239,7 +239,7 @@
 
 
 <style  scoped>
-button sign up
+/* button sign up */
 .text-white {
   --text-opacity: 1;
   color: #fff;

@@ -183,13 +183,16 @@
         </div>
         <div
           data-v-2311e488=""
-          class="justify-center p-2 md:col-span-2 col-span-1 md:text-3xl text-xs align-middle inline-block m-auto text-black"
+          class="justify-center text-center text-gray-700  p-2 md:col-span-2 col-span-1 md:text-4xl font-bold align-middle inline-block m-auto"
         >
-          Bandung International Batch 2
-          <div
+         Who's Next? 
+        <div style="margin-top: -10%;">
+           <router-link class="px-4 py-2 mx-2 rounded bg-primaryy text-white text-sm font-bold" to="/oprec" tag="button" style="text-decoration: none; color: inherit; ">Join Us</router-link>
+        </div>
+          <!-- <div
             data-v-2311e488=""
-            class="justify-center md:border-4 border-2 border-blue-600 w-1/2 mx-auto shadow-2xl"
-          ></div>
+            class="justify-center my-2 md:border-4 border-2 border-blue-600 w-1/2 mx-auto shadow-2xl"
+          ></div> -->
         </div>
         <div
           data-v-2311e488=""
@@ -728,3 +731,106 @@ export default {
  
 
 </script>
+
+<style>
+.text-white {
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.font-black,
+.font-bold {
+  font-weight: 700;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.bg-primaryy {
+  --bg-opacity: 1;
+  background-color: #50a9f7;
+  background-color: rgba(80, 169, 247, var(--bg-opacity));
+}
+
+a {
+  background-color: transparent;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+}
+user agent stylesheet a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.border-gray-200 {
+  --border-opacity: 1;
+  border-color: #edf2f7;
+  border-color: rgba(237, 242, 247, var(--border-opacity));
+}
+
+.bg-white {
+  --bg-opacity: 1;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, var(--bg-opacity));
+}
+
+.hydrated {
+  visibility: inherit;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+html {
+  font-family: Source Sans Pro;
+  line-height: 1.5;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+}
+
+</style>
